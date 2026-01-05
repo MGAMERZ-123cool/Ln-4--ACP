@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+    <head> <title> Monuments </title> </head>
+    <body>
+        <ul>
+            <li> Taj Mahal </li>
+            <li> Colosseum </li>
+            <li> Leaning Tower Of Pisa </li>
+            <li> Eiffel Tower </li>
+            <li> Big Ben </li>
+            <li> Opera House </li>
+            <li> Statue Of Liberty</li>
+        </ul>
+    </body>
+</html>
